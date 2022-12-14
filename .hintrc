@@ -1,0 +1,37 @@
+{
+  "connector": {
+    "name": "local",
+    "options": {
+      "pattern": [
+        "**",
+        "!.git/**",
+        "!node_modules/**"
+      ]
+    }
+  },
+  "extends": [
+    "development"
+  ],
+  "formatters": [
+    "stylish"
+  ],
+  "browserslist": [
+    "defaults",
+    "not ie 11",
+    "not ios_saf <= 14.8"
+  ],
+  "hints": {
+    "axe/parsing": [
+      "default",
+      {
+        "duplicate-id-aria": "off"
+      }
+    ],
+    "axe/text-alternatives": [
+      "default",
+      {
+        "image-alt": "off"
+      }
+    ]
+  }
+}

@@ -9,18 +9,22 @@ Additional description about the project and its features.
 ## Built With
 
 - HTML5 elements
-  - `h1`,
-  - `header`,
-  - `div`, `label`, `input`,
-  - `section`, `nav`, `button`.
-- CSS elements
-  - `body`,
-  - `header`, `main`,
-  - `section`, `input`.
+  - `h1`, `ul`, `p`,
+  - `section`, `label`,
+  - `header`, `main`, `form`,
+  - `input`, `nav`, `div`, `legend`,
+  - `fieldset`, `option`, `textarea`, `button`.
+- CSS properties
+  - CSS Variables for reusable CSS values,
+  - CSS Media Query for page responsiveness using `@media` rule,
+  - CSS Positioning `center`,
+  - CSS Background for page aesthetic using `background-color`.
+  - `textarea`, `label`, `form`, `header`, `nav`,
+  - `main`, `section`, `button`, `footer`, `h1`.
 - Linters
   - [Prettier](https://prettier.io/),
   - [Stylelint](https://stylelint.io/).
-- Github Action
+- GitHub Action
 
 ## Live Demo
 

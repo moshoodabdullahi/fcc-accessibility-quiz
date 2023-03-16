@@ -19,8 +19,6 @@ Additional description about the project and its features.
   - CSS Media Query for page responsiveness using `@media` rule,
   - CSS Positioning `center`,
   - CSS Background for page aesthetic using `background-color`.
-  - `textarea`, `label`, `form`, `header`, `nav`,
-  - `main`, `section`, `button`, `footer`, `h1`.
 - Linters
   - [Prettier](https://prettier.io/),
   - [Stylelint](https://stylelint.io/).

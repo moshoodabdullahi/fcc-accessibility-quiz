@@ -2,7 +2,13 @@
   "extends": ["stylelint-config-standard"],
   "plugins": ["stylelint-csstree-validator"],
   "rules": {
-    "csstree/validator": true
+    "csstree/validator": {
+      "properties": {
+        "width": "<min()>|<max()>",
+        "size": "<min()>|<max()>",
+        "font-size": "<min()>|<max()>"
+      }
+    }
   },
   "ignoreFiles": ["build/**", "dist/**", "**/reset*.css", "**/bootstrap*.css"]
 }

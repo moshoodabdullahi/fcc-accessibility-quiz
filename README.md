@@ -1,23 +1,17 @@
 # FCC ACCESSIBILITY-QUIZ
 
-> A basic HTML and CSS project to illustrate styling.
+> A basic HTML and CSS project to illustrate accessibility.
 
 ![screenshot](fcc-accessibility-quiz.netlify.app_.png)
 
-Additional description about the project and its features.
+Accessibility makes webpage easy for all people to access it without difficulty, including people with disabilities.
 
 ## Built With
 
-- HTML5 elements
-  - `h1`, `ul`,
-  - `header`, `main`,
-  - `input`, `nav`, `div`,
-  - `fieldset`, `textarea`, `button`.
+- HTML5 accessibility such as `role`, `aria-labelledby`.
 - CSS properties
   - CSS Variables for reusable CSS values,
-  - CSS Media Query for page responsiveness using `@media` rule,
-  - CSS Positioning `center`,
-  - CSS Background for page aesthetic using `background-color`.
+  - CSS Media Query for page responsiveness using `@media` rule.
 - Linters
   - [Prettier](https://prettier.io/),
   - [Stylelint](https://stylelint.io/).

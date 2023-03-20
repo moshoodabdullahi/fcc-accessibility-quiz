@@ -26,7 +26,7 @@ Accessibility makes webpage easy for all people to access it without difficulty,
 - Clone the project
 
 ```bash
-git clone https://github.com/moshoodabdullahi/html-css-template.git
+git clone https://github.com/moshoodabdullahi/fcc-accessibility-quiz.git
 ```
 
 - Install Dependencies

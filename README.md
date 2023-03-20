@@ -9,11 +9,10 @@ Additional description about the project and its features.
 ## Built With
 
 - HTML5 elements
-  - `h1`, `ul`, `p`,
-  - `section`, `label`,
-  - `header`, `main`, `form`,
-  - `input`, `nav`, `div`, `legend`,
-  - `fieldset`, `option`, `textarea`, `button`.
+  - `h1`, `ul`,
+  - `header`, `main`,
+  - `input`, `nav`, `div`,
+  - `fieldset`, `textarea`, `button`.
 - CSS properties
   - CSS Variables for reusable CSS values,
   - CSS Media Query for page responsiveness using `@media` rule,

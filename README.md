@@ -1,17 +1,20 @@
 # FCC ACCESSIBILITY QUIZ
 
-> A basic HTML and CSS project to illustrate accessibility.
+> A quiz webpage using accessibility tools such as keyboard shortcuts, ARIA attributes, and design best practices.
 
 ![screenshot](fcc-accessibility-quiz.netlify.app_.png)
 
-A quiz webpage using accessibility tools such as keyboard shortcuts, ARIA attributes, and design best practices.
+This PR adds a quiz webpage using accessibility tools such as keyboard shortcuts, ARIA attributes, and design best practices.
 
 ## Built With
 
 - HTML5 accessibility such as `role`, `aria-labelledby`.
+  - `h1`
 - CSS properties
   - CSS Variables for reusable CSS values,
-  - CSS Media Query for page responsiveness using `@media` rule.
+  - CSS Media Query for page responsiveness using `@media` rule,
+  - CSS Positioning `fixed`,
+  - CSS Background for page aesthetic using `background-color`, `background-image`.
 - Linters
   - [Prettier](https://prettier.io/),
   - [Stylelint](https://stylelint.io/).

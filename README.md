@@ -14,7 +14,7 @@ This PR adds a quiz webpage using accessibility tools such as keyboard shortcuts
   - CSS Variables for reusable CSS values,
   - CSS Media Query for page responsiveness using `@media` rule,
   - CSS Positioning `fixed`,
-  - CSS Background for page aesthetic using `background-color`, `background-image`.
+  - CSS Background for page aesthetic using `background-color`.
 - Linters
   - [Prettier](https://prettier.io/),
   - [Stylelint](https://stylelint.io/).

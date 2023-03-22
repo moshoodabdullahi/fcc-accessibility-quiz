@@ -1,10 +1,10 @@
-# FCC ACCESSIBILITY-QUIZ
+# FCC ACCESSIBILITY QUIZ
 
 > A basic HTML and CSS project to illustrate accessibility.
 
 ![screenshot](fcc-accessibility-quiz.netlify.app_.png)
 
-Accessibility makes webpage easy for all people to access it without difficulty, including people with disabilities.
+A quiz webpage using accessibility tools such as keyboard shortcuts, ARIA attributes, and design best practices.
 
 ## Built With
 
@@ -69,7 +69,6 @@ yarn hint
 
 - [CSS Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/css.html)
 - [HTML Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/index.html)
-- [JavaScript Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/javascript.html)
 - [Git Style Guide](https://udacity.github.io/git-styleguide/)
 
 ## 👤 Author
